@@ -18,7 +18,7 @@ This project analyzes the **IBM HR Analytics Employee Attrition & Performance** 
 
 - Dataset: IBM HR Analytics Employee Attrition & Performance
 - Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- Size: ~1,471 rows × 35 columns
+- Size: 1,471 rows × 35 columns
 
 ## Key Objectives
 
